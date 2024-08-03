@@ -35,91 +35,93 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
     </tr>
     <tr>
         <td class="right-bordered"> MIRNet </td>
-        <td> 20.02 </td>
-        <td class="right-bordered"> 0.820 </td>
-        <td> 21.94 </td>
-        <td class="right-bordered"> 0.876 </td>
-        <td> 23.73 </td>
-        <td class="right-bordered"> 0.925 </td>
-        <td> 20.84 </td>
-        <td class="right-bordered"> 0.605 </td>
-        <td> 25.66 </td>
-        <td class="right-bordered"> 0.762 </td> 
+        <td> 20.61 </td>
+        <td class="right-bordered"> 0.732 </td>
+        <td> 21.17 </td>
+        <td class="right-bordered"> 0.757 </td>
+        <td> 22.13 </td>
+        <td class="right-bordered"> 0.862 </td>
+        <td> 28.11 </td>
+        <td class="right-bordered"> 0.847 </td>
+        <td> 28.83 </td>
+        <td class="right-bordered"> 0.858 </td> 
+        <td> 20.82 </td>
+        <td class="right-bordered"> 0.605 </td> 
     </tr>
     <tr>
         <td class="right-bordered">  Retinexformer </td>
-        <td> 21.48 </td>
-        <td class="right-bordered"> 0.849 </td>
-        <td> 24.14 </td>
-        <td class="right-bordered"> 0.928 </td>
-        <td> 24.90 </td>
-        <td class="right-bordered"> 0.901 </td>
-        <td> 22.867 </td>
-        <td class="right-bordered"> 0.625 </td>
-        <td> 28.49 </td>
+        <td> 23.27 </td>
         <td class="right-bordered"> 0.805 </td>
-        <td> 29.44 </td>
-        <td class="right-bordered"> 0.894 </td>
+        <td> 21.29 </td>
+        <td class="right-bordered"> 0.802 </td>
+        <td> 24.73 </td>
+        <td class="right-bordered"> 0.901 </td>
+        <td> 30.08 </td>
+        <td class="right-bordered"> 0.893 </td>
+        <td> 28.85 </td>
+        <td class="right-bordered"> 0.853 </td>
+        <td> 21.75 </td>
+        <td class="right-bordered"> 0.618 </td>
     </tr>
     <tr>
         <td class="right-bordered"> LLFormer </td>
-        <td> 20.99 </td>
-        <td class="right-bordered"> 0.811 </td>
-        <td> 23.74 </td>
-        <td class="right-bordered"> 0.902 </td>
-        <td> 25.75 </td>
-        <td class="right-bordered"> 0.923 </td>
-        <td> 21.26 </td>
-        <td class="right-bordered"> 0.575 </td>
-        <td> 27.92 </td>
-        <td class="right-bordered"> 0.785 </td>
-        <td> 29.65 </td>
-        <td class="right-bordered"> 0.874 </td>        
+        <td> 20.37 </td>
+        <td class="right-bordered"> 0.677 </td>
+        <td> 18.95 </td>
+        <td class="right-bordered"> 0.697 </td>
+        <td> 22.67 </td>
+        <td class="right-bordered"> 0.814 </td>
+        <td> 28.05 </td>
+        <td class="right-bordered"> 0.837 </td>
+        <td> 28.72 </td>
+        <td class="right-bordered"> 0.849 </td>
+        <td> 20.91 </td>
+        <td class="right-bordered"> 0.582 </td>        
     </tr>
     <tr>
         <td class="right-bordered">  Restormer </td>
-        <td> 24.03 </td>
-        <td class="right-bordered"> 0.820 </td>
-        <td> 24.98 </td>
-        <td class="right-bordered"> 0.893 </td>
-        <td> 25.23 </td>
-        <td class="right-bordered"> 0.854 </td>
-        <td> 22.70 </td>
-        <td class="right-bordered"> 0.556 </td>
-        <td> 26.97 </td>
-        <td class="right-bordered"> 0.725 </td>
-        <td> 26.89 </td>
-        <td class="right-bordered"> 0.802 </td> 
+        <td> 21.84 </td>
+        <td class="right-bordered"> 0.794 </td>
+        <td> 21.70 </td>
+        <td class="right-bordered"> 0.794 </td>
+        <td> 24.02 </td>
+        <td class="right-bordered"> 0.902 </td>
+        <td> 29.15 </td>
+        <td class="right-bordered"> 0.869 </td>
+        <td> 27.56 </td>
+        <td class="right-bordered"> 0.835 </td>
+        <td> 21.16 </td>
+        <td class="right-bordered"> 0.637 </td> 
     </tr>
     <tr>
         <td class="right-bordered"> LLFlow </td>
-        <td> 19.67 </td>
-        <td class="right-bordered"> 0.852 </td>
-        <td> 23.43 </td>
-        <td class="right-bordered"> 0.933 </td>
-        <td> 24.70 </td>
-        <td class="right-bordered"> 0.925 </td>
-        <td> 19.39 </td>
-        <td class="right-bordered"> 0.615 </td>
-        <td> 27.45 </td>
-        <td class="right-bordered"> 0.804 </td>
-        <td> 25.46 </td>
-        <td class="right-bordered"> 0.896 </td>       
+        <td> 20.09 </td>
+        <td class="right-bordered"> 0.829 </td>
+        <td> 19.19 </td>
+        <td class="right-bordered"> 0.823 </td>
+        <td> 22.19 </td>
+        <td class="right-bordered"> 0.901 </td>
+        <td> 27.45</td>
+        <td class="right-bordered"> 0.899 </td>
+        <td> 28.90 </td>
+        <td class="right-bordered"> 0.869 </td>
+        <td> 18.63 </td>
+        <td class="right-bordered"> 0.609 </td>       
     </tr>
     <tr class="bottom-bordered bold-top-border">
         <td class="right-bordered "> <b>our ZMAR-SNFlow<b> </td>
-        <td> <b>24.06<b> </td>
-        <td class="right-bordered"> <b>0.878<b> </td>
-        <td> <b>25.21<b> </td>
-        <td class="right-bordered"> <b>0.942<b> </td>
-        <td> <b>25.90<b> </td>
-        <td class="right-bordered"> <b>0.927<b> </td>
-        <td> <b>22.869<b> </td>
-        <td class="right-bordered"> <b>0.644<b> </td>
-        <td> <b>28.68<b> </td>
-        <td class="right-bordered"> <b>0.810<b> </td>
-        <td> <b>30.39<b> </td>
-        <td class="right-bordered"> <b>0.908<b> </td>    
+        <td> <b>23.37<b> </td>
+        <td class="right-bordered"> <b>0.843<b> </td>
+        <td> <b>24.15<b> </td>
+        <td class="right-bordered"> <b>0.862<b> </td>
+        <td> <b>25.62<b> </td>
+        <td class="right-bordered"> <b>0.928<b> </td>
+        <td> <b>30.60<b> </td>
+        <td class="right-bordered"> <b>0.905<b> </td>
+        <td> <b>30.03<b> </td>
+        <td class="right-bordered"> <b>0.876<b> </td>
+        <td> <b>21.80<b> </td>
+        <td class="right-bordered"> <b>0.638<b> </td>    
     </tr>
 
 </table>
@@ -127,7 +129,8 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
 
 
 ### Visual Quality
-<img src="./figure/visual-quality.png" width="800"/>
+![image](https://github.com/user-attachments/assets/302208de-f3bd-4727-b510-9cc278623287)
+
 
 
 
