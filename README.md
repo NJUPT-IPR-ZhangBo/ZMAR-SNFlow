@@ -4,4 +4,4 @@
 # Pretrained Model
 We provide the pre-trained models at:
 https://pan.baidu.com/s/1so7dUPfxku8v-IzSuB95pA?pwd=yvpp 
-提取码：yvpp
+
