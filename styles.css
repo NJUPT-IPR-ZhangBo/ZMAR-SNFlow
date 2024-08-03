@@ -1,0 +1,25 @@
+
+table {
+    font-size: 10px; 
+    width: 800px;
+    border-collapse: collapse; 
+}
+    th, td {
+    text-align: center;
+    padding: 8px;
+}
+.top-bordered {
+    border-top: 1px solid #000000; 
+}
+.bottom-bordered {
+    border-bottom: 1px solid #000000; 
+}
+.left-bordered {
+    border-left: 1px solid #000000; 
+}
+.right-bordered {
+    border-right: 1px solid #000000; 
+}
+.bold-top-border td {
+    border-top: 1px solid #000000
+}
