@@ -31,8 +31,7 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <th> PSNR </th>
         <th class="right-bordered"> SSIM </th>
         <th> PSNR </th>
-        <th class="right-bordered"> SSIM </th>
-       
+        <th class="right-bordered"> SSIM </th>  
     </tr>
     <tr>
         <td class="right-bordered"> MIRNet </td>
@@ -45,8 +44,7 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <td> 20.84 </td>
         <td class="right-bordered"> 0.605 </td>
         <td> 25.66 </td>
-        <td class="right-bordered"> 0.762 </td>
-       
+        <td class="right-bordered"> 0.762 </td> 
     </tr>
     <tr>
         <td class="right-bordered">  Retinexformer </td>
@@ -62,7 +60,6 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <td class="right-bordered"> 0.805 </td>
         <td> 29.44 </td>
         <td class="right-bordered"> 0.894 </td>
-       
     </tr>
     <tr>
         <td class="right-bordered"> LLFormer </td>
@@ -77,8 +74,7 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <td> 27.92 </td>
         <td class="right-bordered"> 0.785 </td>
         <td> 29.65 </td>
-        <td class="right-bordered"> 0.874 </td>
-        
+        <td class="right-bordered"> 0.874 </td>        
     </tr>
     <tr>
         <td class="right-bordered">  Restormer </td>
@@ -93,8 +89,7 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <td> 26.97 </td>
         <td class="right-bordered"> 0.725 </td>
         <td> 26.89 </td>
-        <td class="right-bordered"> 0.802 </td>
-       
+        <td class="right-bordered"> 0.802 </td> 
     </tr>
     <tr>
         <td class="right-bordered"> LLFlow </td>
@@ -109,11 +104,10 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <td> 27.45 </td>
         <td class="right-bordered"> 0.804 </td>
         <td> 25.46 </td>
-        <td class="right-bordered"> 0.896 </td>
-        
+        <td class="right-bordered"> 0.896 </td>       
     </tr>
     <tr class="bottom-bordered bold-top-border">
-        <td class="right-bordered "> <b>JTE-CFlow (Ours)<b> </td>
+        <td class="right-bordered "> <b>our ZMAR-SNFlow<b> </td>
         <td> <b>24.06<b> </td>
         <td class="right-bordered"> <b>0.878<b> </td>
         <td> <b>25.21<b> </td>
@@ -125,8 +119,7 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
         <td> <b>28.68<b> </td>
         <td class="right-bordered"> <b>0.810<b> </td>
         <td> <b>30.39<b> </td>
-        <td class="right-bordered"> <b>0.908<b> </td>
-       
+        <td class="right-bordered"> <b>0.908<b> </td>    
     </tr>
 
 </table>
