@@ -125,11 +125,12 @@ ZMAR-SNFlow is a novel flow-based generative method  to restore low-light images
     </tr>
 
 </table>
-(We remove the GT correction operation when obtaining the metrics of LLFlow for fair comparison.)
+( For fair comparsion, all methods are re-trained and tested on each dataset, and the training and testing low-light images with our zero-element mask set. We remove the GT correction operation when obtaining the metrics of LLFlow for fair comparison.)
 
 
 ### Visual Quality
-![image](https://github.com/user-attachments/assets/302208de-f3bd-4727-b510-9cc278623287)
+![image](https://github.com/user-attachments/assets/e99e7cef-645e-45f5-9572-d9106543f3b9)
+
 
 
 
